@@ -3,3 +3,6 @@ test
 
 test.csv
 train.csv
+
+array_touse.csv
+array_touse.csv.gz
